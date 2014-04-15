@@ -5,7 +5,9 @@ Architecture: x86_64
 Display-Name: monit 5.8
 Description: Monit is an open source utility for managing and monitoring, processes, programs, files, directories and filesystems
 Version: '5.8'
-Cartridge-Version: 0.0.1
+Versions:
+- '5.8'
+Cartridge-Version: '0.0.1'
 Cartridge-Vendor: mfojtik
 License: GPL
 Vendor: mfojtik
